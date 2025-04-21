@@ -1,4 +1,4 @@
-🧫 PCOS Detection and Health Advisory using Deep Learning
+# 🧫 PCOS Detection and Health Advisory using Deep Learning
 This repository contains a full pipeline for detecting Polycystic Ovary Syndrome (PCOS) using ultrasound images with a deep learning model and providing personalized health suggestions through an integrated AI assistant powered by LangChain.
 
 📽️ Project Overview
